@@ -1,0 +1,5 @@
+streamlit
+flake8
+crewai
+langchain-community
+openai
