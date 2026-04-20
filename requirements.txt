@@ -1,5 +1,7 @@
 streamlit
 flake8
 crewai
+langchain
+langchain-core
 langchain-community
 openai
