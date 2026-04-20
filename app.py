@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import subprocess
 import tempfile
-from langchain.tools import tool
+from crewai.tools import tool
 from crewai import Agent, Task, Crew, Process
 
 # Set up Streamlit Page
